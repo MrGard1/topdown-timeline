@@ -1,0 +1,68 @@
+[
+  {
+    "title": "AWS launched",
+    "year": 2006,
+    "month": 2,
+    "description": "AWS launched its first service, Amazon S3 (Simple Storage Service), in the United States"
+  },
+  {
+    "title": "iPhone Anncounced",
+    "year": 2007,
+    "month": 0,
+    "description": "The first-generation iPhone was announced by then–Apple CEO Steve Jobs at Macworld, and launched later that year."
+  },
+  {
+    "title": "Facebook launched",
+    "year": 2004,
+    "month": 1,
+    "description": "Mark Zuckerberg launched Facebook under the name of 'TheFacebook', he intended to create a website that could connect people around the university. Within twenty-four hours, it had somewhere between twelve hundred and fifteen hundred registrants."
+  },
+  {
+    "title": "World Wide Web Invented",
+    "year": 1989,
+    "month": 2,
+    "description": "Tim Berners-Lee proposed the concept of the World Wide Web, which revolutionized the way information is shared and accessed online."
+  },
+  {
+    "title": "Windows 95 Released",
+    "year": 1995,
+    "month": 7,
+    "description": "Microsoft released Windows 95, a major milestone in personal computing that popularized the graphical user interface and plug-and-play hardware support."
+  },
+  {
+    "title": "Google Founded",
+    "year": 1998,
+    "month": 8,
+    "description": "Larry Page and Sergey Brin founded Google in September, introducing a new search engine that would eventually dominate the Internet."
+  },
+  {
+    "title": "Wi-Fi Alliance Formed",
+    "year": 1999,
+    "month": 8,
+    "description": "The Wi-Fi Alliance was founded, standardizing wireless networking technology that would become essential to modern connectivity."
+  },
+  {
+    "title": "YouTube Acquired by Google",
+    "year": 2006,
+    "month": 9,
+    "description": "Google acquired YouTube for $1.65 billion, laying the groundwork for the era of online video streaming."
+  },
+  {
+    "title": "Bitcoin Introduced",
+    "year": 2009,
+    "month": 0,
+    "description": "The concept of Bitcoin, a decentralized cryptocurrency, was introduced by an anonymous person or group known as Satoshi Nakamoto."
+  },
+  {
+    "title": "Instagram Launched",
+    "year": 2010,
+    "month": 9,
+    "description": "Instagram, a photo-sharing social media platform, was launched by Kevin Systrom and Mike Krieger, rapidly gaining millions of users."
+  },
+  {
+    "title": "Amazon Echo released",
+    "year": 2014,
+    "month": 10,
+    "description": "Amazon introduced the Echo smart speaker, which popularized voice-activated digital assistants in homes."
+  }
+]
