@@ -1,7 +1,7 @@
-from gameMenu import showGameMenu
-from gameSetup import setupNewGame
-from gameLoop import play
-from gameResults import showWinner
+from game_menu import showGameMenu
+from game_setup import setupNewGame
+from game_loop import play
+from game_results import showWinner
 
 def timeline():
     print("playing timeline game")
@@ -31,3 +31,16 @@ timeline()
     # 3.4 check if player won/game is over, if so goto 4
     # 3.5 goto 3.2
     # 4. show who winner is
+
+
+    # BEHAVIOR...
+    # functions params, returns, behavior
+    # STATE, what do we need to keep track of?
+    # more complex than vars: lists, dics(related information), 
+    # control: if/else, loops, 
+
+    # OO
+    # repeted - related:  behavior & state, self contained
+
+    #outline project, github run, github from start, part by part...
+    # practice activities for each part... smaller example sheets...
