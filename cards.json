@@ -66,27 +66,207 @@
     "description": "Amazon introduced the Echo smart speaker, which popularized voice-activated digital assistants in homes."
   },
   {
-    "title": "Amazon Echo released",
-    "year": 2014,
-    "month": 10,
-    "description": "Amazon introduced the Echo smart speaker, which popularized voice-activated digital assistants in homes."
+    "title": "Python Created",
+    "year": 1991,
+    "month": 0,
+    "description": "Guido van Rossum released Python, a high-level programming language known for its readability and versatility."
   },
   {
-    "title": "Amazon Echo released",
-    "year": 2014,
-    "month": 10,
-    "description": "Amazon introduced the Echo smart speaker, which popularized voice-activated digital assistants in homes."
+    "title": "Microsoft Founded",
+    "year": 1975,
+    "month": 3,
+    "description": "Bill Gates and Paul Allen founded Microsoft to develop and sell software for personal computers."
   },
   {
-    "title": "Amazon Echo released",
-    "year": 2014,
-    "month": 10,
-    "description": "Amazon introduced the Echo smart speaker, which popularized voice-activated digital assistants in homes."
+    "title": "Apple Founded",
+    "year": 1976,
+    "month": 3,
+    "description": "Steve Jobs, Steve Wozniak, and Ronald Wayne founded Apple, revolutionizing personal computing."
   },
   {
-    "title": "Amazon Echo released",
-    "year": 2014,
-    "month": 10,
-    "description": "Amazon introduced the Echo smart speaker, which popularized voice-activated digital assistants in homes."
+    "title": "Linux Kernel Released",
+    "year": 1991,
+    "month": 7,
+    "description": "Linus Torvalds released the first version of the Linux kernel, sparking the open-source movement."
+  },
+  {
+    "title": "Java Programming Language Announced",
+    "year": 1995,
+    "month": 4,
+    "description": "Sun Microsystems introduced Java, a platform-independent programming language that became widely adopted."
+  },
+  {
+    "title": "IBM PC Launched",
+    "year": 1981,
+    "month": 7,
+    "description": "IBM introduced its first personal computer, which became a standard in business and home computing."
+  },
+  {
+    "title": "First Email Sent",
+    "year": 1971,
+    "month": 0,
+    "description": "Ray Tomlinson sent the first email, using the @ symbol to separate the user name from the computer name."
+  },
+  {
+    "title": "First Website Published",
+    "year": 1991,
+    "month": 7,
+    "description": "Tim Berners-Lee published the first website, laying the foundation for the modern World Wide Web."
+  },
+  {
+    "title": "First iPod Released",
+    "year": 2001,
+    "month": 9,
+    "description": "Apple introduced the iPod, revolutionizing portable music players and digital music consumption."
+  },
+  {
+    "title": "OpenAI Founded",
+    "year": 2015,
+    "month": 11,
+    "description": "OpenAI was founded with the mission to ensure artificial intelligence benefits all of humanity."
+  },
+  {
+    "title": "Tesla Motors Founded",
+    "year": 2003,
+    "month": 6,
+    "description": "Tesla Motors was founded to accelerate the world's transition to sustainable energy."
+  },
+  {
+    "title": "Twitter Launched",
+    "year": 2006,
+    "month": 2,
+    "description": "Twitter launched as a microblogging platform where users could share short updates."
+  },
+  {
+    "title": "First Android Phone Released",
+    "year": 2008,
+    "month": 9,
+    "description": "The first Android smartphone, the HTC Dream, was released, marking a new era in mobile technology."
+  },
+  {
+    "title": "Git Released",
+    "year": 2005,
+    "month": 3,
+    "description": "Linus Torvalds created Git, a distributed version control system widely used in software development."
+  },
+  {
+    "title": "First Video Game Created",
+    "year": 1958,
+    "month": 9,
+    "description": "William Higinbotham created one of the first video games, a tennis simulation displayed on an oscilloscope."
+  },
+  {
+    "title": "HTML Introduced",
+    "year": 1993,
+    "month": 5,
+    "description": "HTML (Hypertext Markup Language) was introduced, becoming the standard language for creating web pages."
+  },
+  {
+    "title": "Amazon Launched",
+    "year": 1995,
+    "month": 6,
+    "description": "Jeff Bezos launched Amazon as an online bookstore, later expanding to sell almost everything."
+  },
+  {
+    "title": "Spotify Launched",
+    "year": 2008,
+    "month": 9,
+    "description": "Spotify launched, changing the way people stream and listen to music."
+  },
+  {
+    "title": "Adobe Founded",
+    "year": 1982,
+    "month": 11,
+    "description": "Adobe was founded, becoming a leader in digital media and creativity tools."
+  },
+  {
+    "title": "Intel Founded",
+    "year": 1968,
+    "month": 6,
+    "description": "Intel was founded, becoming a leader in semiconductor technology and microprocessors."
+  },
+  {
+    "title": "Zoom Launched",
+    "year": 2013,
+    "month": 0,
+    "description": "Zoom launched as a video conferencing platform, eventually becoming a household name for remote communication."
+  },
+  {
+    "title": "TikTok Launched",
+    "year": 2016,
+    "month": 8,
+    "description": "TikTok launched as a short-form video platform, quickly becoming one of the most popular apps globally."
+  },
+  {
+    "title": "Uber Founded",
+    "year": 2009,
+    "month": 2,
+    "description": "Uber was founded, transforming urban transportation through ride-sharing technology."
+  },
+  {
+    "title": "Raspberry Pi Released",
+    "year": 2012,
+    "month": 1,
+    "description": "The Raspberry Pi, a low-cost, credit-card-sized computer, was released to promote computer science education."
+  },
+  {
+    "title": "Deep Blue Defeats Kasparov",
+    "year": 1997,
+    "month": 4,
+    "description": "IBM's Deep Blue supercomputer defeated world chess champion Garry Kasparov, marking a milestone in AI."
+  },
+  {
+    "title": "First Blockchain Implemented",
+    "year": 2009,
+    "month": 0,
+    "description": "The first blockchain was implemented as part of Bitcoin, providing the foundation for decentralized technologies."
+  },
+  {
+    "title": "ARPANET Created",
+    "year": 1969,
+    "month": 9,
+    "description": "The ARPANET, a precursor to the modern Internet, was created as a research project funded by the U.S. Department of Defense. With the four original network nodes locatedc at: SRI, the University of California, Los Angeles (UCLA); the University of California, Santa Barbara; and the University of Utah."
+  },
+  {
+    "title": "Tesla Roadster Unveiled",
+    "year": 2008,
+    "month": 1,
+    "description": "Tesla unveiled the Roadster, the first all-electric sports car, showcasing the potential of electric vehicles."
+  },
+  {
+    "title": "MIT AI Lab Founded",
+    "year": 1959,
+    "month": 0,
+    "description": "The MIT Artificial Intelligence Lab was founded, becoming a leading institution for AI research."
+  },
+  {
+    "title": "Open Source Initiative Founded",
+    "year": 1998,
+    "month": 1,
+    "description": "The Open Source Initiative was founded to promote and protect open-source software."
+  },
+  {
+    "title": "First Smartphone Released",
+    "year": 1994,
+    "month": 0,
+    "description": "IBM released the Simon Personal Communicator, widely regarded as the first smartphone."
+  },
+  {
+    "title": "Hadoop Released",
+    "year": 2006,
+    "month": 1,
+    "description": "Hadoop, an open-source framework for processing large data sets, was released."
+  },
+  {
+    "title": "Bluetooth Technology Introduced",
+    "year": 1999,
+    "month": 4,
+    "description": "Bluetooth wireless technology was introduced, enabling short-range data exchanges."
+  },
+  {
+    "title": "First Graphical Browser Released",
+    "year": 1993,
+    "month": 0,
+    "description": "Mosaic, the first popular graphical web browser, was released, accelerating the adoption of the Internet."
   }
 ]
