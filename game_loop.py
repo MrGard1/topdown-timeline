@@ -125,6 +125,7 @@ def play_fancy(game_settings, starting_game_table ):
             if is_valid_placment(player_hands[player_reading_to],drawn_card,guess):
                 player_hands[player_reading_to].append(drawn_card)
                 print("Good job thats right!")
+                print(f"{drawn_card['title']} in {drawn_card['year']}")
                 break
             else:
                 print("SORRY you guessed wrong")
