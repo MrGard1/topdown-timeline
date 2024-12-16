@@ -1,6 +1,6 @@
 from game_menu import showGameMenu
 from game_setup import setupNewGame
-from game_loop import play
+from game_loop import play_fancy as play
 from game_results import showWinner
 
 def timeline():
