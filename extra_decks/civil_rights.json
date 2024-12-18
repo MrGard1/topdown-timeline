@@ -1,0 +1,9 @@
+[
+    { "title": "Abolition of Slavery in the U.S.", "year": 1865, "month": 12, "description": "The 13th Amendment is ratified, abolishing slavery in the United States." },
+    { "title": "Women Gain the Right to Vote in the U.S.", "year": 1920, "month": 8, "description": "The 19th Amendment is ratified, granting women the right to vote." },
+    { "title": "Brown v. Board of Education", "year": 1954, "month": 5, "description": "The Supreme Court rules segregation in public schools unconstitutional." },
+    { "title": "Montgomery Bus Boycott", "year": 1955, "month": 12, "description": "Rosa Parks sparks a year-long boycott, leading to desegregation of buses in Montgomery." },
+    { "title": "March on Washington", "year": 1963, "month": 8, "description": "Martin Luther King Jr. delivers his famous 'I Have a Dream' speech." },
+    { "title": "Civil Rights Act Passed", "year": 1964, "month": 7, "description": "Landmark legislation prohibits discrimination based on race, color, religion, sex, or national origin." }
+  ]
+  

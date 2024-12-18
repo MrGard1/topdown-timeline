@@ -1,0 +1,13 @@
+[
+    { "title": "Taylor Swift Debut Album", "year": 2006, "month": 10, "description": "Taylor releases her self-titled debut album, featuring country hits like 'Tim McGraw'." },
+    { "title": "Fearless Release", "year": 2008, "month": 11, "description": "Her second album, 'Fearless,' propels her to stardom with hits like 'Love Story' and 'You Belong With Me'." },
+    { "title": "Speak Now Release", "year": 2010, "month": 10, "description": "Taylor’s first self-written album, featuring hits like 'Mine' and 'Back to December'." },
+    { "title": "Red Release", "year": 2012, "month": 10, "description": "Known for its genre diversity, 'Red' features hits like 'We Are Never Ever Getting Back Together'." },
+    { "title": "1989 Release", "year": 2014, "month": 10, "description": "Her first pop album includes iconic tracks like 'Shake It Off' and 'Blank Space'." },
+    { "title": "Reputation Release", "year": 2017, "month": 11, "description": "'Reputation' marks a darker, edgier turn in Taylor’s discography." },
+    { "title": "Lover Release", "year": 2019, "month": 8, "description": "'Lover' brings a return to lighthearted, romantic themes with hits like 'ME!' and 'You Need to Calm Down'." },
+    { "title": "Folklore Release", "year": 2020, "month": 7, "description": "Her indie-folk album, written during the pandemic, receives widespread acclaim." },
+    { "title": "Evermore Release", "year": 2020, "month": 12, "description": "A sister album to 'Folklore,' continuing its lyrical and musical themes." },
+    { "title": "Midnights Release", "year": 2022, "month": 10, "description": "Her latest album explores nocturnal thoughts and emotions." }
+  ]
+  

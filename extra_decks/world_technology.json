@@ -1,0 +1,13 @@
+[
+    { "title": "Printing Press Invented", "year": 1440, "month": 6, "description": "Gutenberg’s invention revolutionizes the spread of information." },
+    { "title": "Steam Engine Patented", "year": 1769, "month": 1, "description": "James Watt patents the modern steam engine, powering the Industrial Revolution." },
+    { "title": "First Photograph Taken", "year": 1826, "month": 7, "description": "Nicéphore Niépce captures the world’s first photograph using a camera obscura." },
+    { "title": "Telephone Invented", "year": 1876, "month": 3, "description": "Alexander Graham Bell patents the telephone, transforming global communication." },
+    { "title": "First Powered Flight", "year": 1903, "month": 12, "description": "The Wright brothers successfully achieve powered flight at Kitty Hawk." },
+    { "title": "First Computer Invented", "year": 1943, "month": 5, "description": "ENIAC, the first general-purpose electronic computer, is developed." },
+    { "title": "First Man on the Moon", "year": 1969, "month": 7, "description": "Neil Armstrong becomes the first human to set foot on the Moon during Apollo 11." },
+    { "title": "World Wide Web Created", "year": 1989, "month": 3, "description": "Tim Berners-Lee invents the WWW, paving the way for the modern internet." },
+    { "title": "iPhone Launches", "year": 2007, "month": 6, "description": "Apple releases the iPhone, reshaping the mobile technology landscape." },
+    { "title": "ChatGPT Goes Public", "year": 2022, "month": 11, "description": "OpenAI releases ChatGPT, bringing advanced AI language models to the public." }
+  ]
+  

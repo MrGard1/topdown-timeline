@@ -1,0 +1,13 @@
+[
+    { "title": "Harry Potter Born", "year": 1980, "month": 7, "description": "The fictional birth of Harry Potter in the wizarding world." },
+    { "title": "Voldemort Attacks the Potters", "year": 1981, "month": 10, "description": "Harry survives Voldemort’s Killing Curse, leaving his iconic lightning scar." },
+    { "title": "Harry Starts Hogwarts", "year": 1991, "month": 9, "description": "Harry Potter begins his magical education at Hogwarts School of Witchcraft and Wizardry." },
+    { "title": "Battle of Hogwarts", "year": 1998, "month": 5, "description": "The final confrontation between Harry and Voldemort ends with Voldemort's defeat." },
+    { "title": "First Harry Potter Book Published", "year": 1997, "month": 6, "description": "J.K. Rowling publishes 'Harry Potter and the Philosopher's Stone' in the UK." },
+    { "title": "Harry Potter Film Series Begins", "year": 2001, "month": 11, "description": "The first movie, 'Harry Potter and the Sorcerer's Stone,' is released." },
+    { "title": "Final Harry Potter Book Published", "year": 2007, "month": 7, "description": "'Harry Potter and the Deathly Hallows' concludes the book series." },
+    { "title": "Final Harry Potter Film Released", "year": 2011, "month": 7, "description": "'Harry Potter and the Deathly Hallows: Part 2' marks the end of the film saga." },
+    { "title": "Fantastic Beasts Film Series Begins", "year": 2016, "month": 11, "description": "The wizarding world expands with 'Fantastic Beasts and Where to Find Them'." },
+    { "title": "Wizarding World Theme Parks Open", "year": 2010, "month": 6, "description": "Universal Studios opens the Wizarding World of Harry Potter in Orlando, Florida." }
+  ]
+  
